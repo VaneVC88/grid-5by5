@@ -1,0 +1,208 @@
+header{
+	padding: 15px 0;
+	margin: 0;
+	color: #fff; 
+	border-bottom: solid #333 1px;
+	background: #333;
+}
+
+.logo{
+	width: 80px;
+	height: 80px;
+}
+
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+nav li:hover a{
+	background: #585858;
+}
+
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+
+nav a:hover{
+	color: #fff;
+}
+
+section{
+    background: #DCDCDC; 
+    height: 350px;
+    border-bottom: 1px solid grey;
+}
+
+h2{
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+
+section h1 a{
+	font-size: 13px;
+	position: relative;
+	bottom: 43px;
+	left: 162px;
+	text-decoration: none;
+	color: #4682B4;
+}
+
+h3{
+	text-align: center;
+	font-size: 15px;
+	color: #4682B4;
+}
+
+.image{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #C0C0C0;
+	padding: 2px;
+	background-color: white;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+.thumbs{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: 80px;
+	right: 12px;
+	border: 1px solid #C0C0C0;
+	padding: 2px;
+	background-color: white;
+}
+
+p{
+	font-size: 12px;
+	text-align: center;
+	position: relative;
+	top: 80px;
+	right: 8px;
+	color: #4682B4;
+}
+
+h4{
+	position: relative;
+	top: 150px;
+}
+
+.linea{
+	position: relative;
+	top: 150px;
+}
+
+.icons{
+	width: 10px;
+	height: 10px;
+	position: relative;
+	top: 160px;
+}
+
+h6{
+	font-size: 12px;
+	position: relative;
+	top: 142px;
+	left: 20px;
+	color: #4682B4;
+}
+
+.apps{
+	position: relative;
+	bottom: 100px;
+}
+
+.linea1{
+	position: relative;
+	top: 150px;
+}
+
+.spon{
+	position: relative;
+	top: 45px;
+	font-size: 15px;
+}
+
+a h5{
+	color: #4682B4;
+}
+
+.linea2{
+	position: relative;
+	top: 40px;
+}
+
+.footer{
+	background: #696969; 
+    height: 150px;
+    position: relative;
+    top: 120px;
+}
+
+.end p{
+	font-size: 16px;
+	text-align: center;
+	position: relative;
+	top: 25px;
+	color: white;
+}
+
+.end p a{
+	color: #C0C0C0;
+}
+
+.end ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 9px;
+	line-height: 9px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+.end ul a{
+	color: #C0C0C0;
+}
+
+ .end li{
+ 	position: relative;
+	float: left;
+	right: 100px;
+	margin: 0;
+	padding: 10px 15px;
+}
+
+.end2 p{
+	font-size: 10px;
+	color: #C0C0C0;
+	position: relative;
+	left: 215px;
+	top: 10px;
+
+}
+
+
+
